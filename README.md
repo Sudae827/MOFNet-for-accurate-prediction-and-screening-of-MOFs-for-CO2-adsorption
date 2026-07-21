@@ -1,1 +1,1 @@
-# MOFNet-for-accurate-prediction-and-screening-of-MOFs-for-CO2-adsorption
+# Hybrid representation learning from structural images enables accurate prediction and screening of MOFs for CO2 adsorption
